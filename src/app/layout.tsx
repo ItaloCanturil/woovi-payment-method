@@ -1,7 +1,7 @@
 import { Box, Container, ThemeProvider } from '@mui/material';
 import { AppRouterCacheProvider } from '@mui/material-nextjs/v13-appRouter'
 import wooviTheme from './theme';
-import { LogoHeader } from './components/LogoHeader';
+import { LogoHeader } from './components/molecules/LogoHeader';
 
 export default function RootLayout({
   children,

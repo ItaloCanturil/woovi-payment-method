@@ -1,5 +1,5 @@
 import { Box, Container } from "@mui/material";
-import Accordion from "../components/accordion";
+import Accordion from "../components/molecules/PaymentMethodButton";
 import { useRef } from "react";
 
 export default function Home() {
